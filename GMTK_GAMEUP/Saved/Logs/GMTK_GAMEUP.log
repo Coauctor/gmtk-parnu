@@ -1264,3 +1264,11 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.29-11.41.21:569][393]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 365.874756
 [2025.07.29-11.41.22:572][397]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.07.29-11.41.22:572][397]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 366.542877, Update Interval: 352.314819
+[2025.07.29-11.47.17:524][481]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 721.827820
+[2025.07.29-11.47.18:524][485]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-11.47.18:524][485]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 722.494690, Update Interval: 336.578278
+[2025.07.29-11.52.51:676][484]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2025.07.29-11.52.51:676][484]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2025.07.29-11.53.00:910][511]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1065.213623
+[2025.07.29-11.53.01:910][514]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-11.53.01:910][515]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1065.878784, Update Interval: 337.585388
