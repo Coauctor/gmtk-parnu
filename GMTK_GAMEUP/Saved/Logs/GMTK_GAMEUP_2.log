@@ -1529,3 +1529,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.29-12.04.02:344][912]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.07.29-12.04.02:344][912]AssetCheck: /Game/Levels/LevelMap Validating asset
 [2025.07.29-12.04.02:367][912]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/jomda/Documents/GitHub/gmtk-parnu/GMTK_GAMEUP/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.29-12.06.15:353][185]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 365.994812
+[2025.07.29-12.06.16:350][188]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-12.06.16:350][188]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 366.661530, Update Interval: 348.998688
